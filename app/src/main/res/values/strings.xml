@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Harshit Bisht</string>
+    <string name="student">Student</string>
+    <string name="bio">Learning android development at \n Skill Vertex</string>
+    <string name="skill">Skills</string>
+    <string name="skillName">C | Python | Java | Kotlin</string>
+    <string name="linkedin">linkedin</string>
+    <string name="github">github</string>
+    <string name="gmail">gmail</string>
+    <string name="instagram">instagram</string>
+    <string name="whatsapp">/whatsapp</string>
+    <string name="profile">profile</string>
+    <string name="edit_profile">edit profile</string>
+    <string name="search_profile">search profile</string>
+    <string name="help">help</string>
+    <string name="share_profile">share profile</string>
+    <string name="enter_name">Enter name</string>
+    <string name="hintname">Name</string>
+    <string name="hintWork">profession</string>
+    <string name="hintAbout">About</string>
+    <string name="hintSkills">your skills</string>
+</resources>
